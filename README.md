@@ -17,8 +17,8 @@ This repository will house my practice projects, notes, and assignments as I dev
 - Strengthen my analytical and storytelling skills
 - Share what I learn through practical examples
 
-## My Projects Coming soon! I'll add my projects here as I build them. 
+My Projects Coming soon! I'll add my projects here as I build them. 
 
-## Contact - Email: gn.chukwudi@gmail.com - GitHub: github.com/pokuwaaglory
+### Contact - Email: gn.chukwudi@gmail.com - GitHub: github.com/pokuwaaglory
 
 Stay tuned as I update this space 
