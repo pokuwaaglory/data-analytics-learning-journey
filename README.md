@@ -1,13 +1,13 @@
 # data-analytics-learning-journey
 A collection of my learning projects and practice notebooks as I build my data analytics skills.
 
-# My Data Analytics Journey
+### My Data Analytics Journey
 
 Hi, I'm Glory 
 I'm learning to use data to tell meaningful stories and make better decisions.  
 This repository will house my practice projects, notes, and assignments as I develop my skills in **Excel, SQL, and Data Visualisation**.
 
-## What I’ve Learned So Far
+### What I’ve Learned So Far
 - Basics of Data Analysis and Visualisation (DataCamp)
 - Data Cleaning, Sorting, and Filtering in Excel (LinkedIn Learning)
 - Intro to Hypothesis Testing and Probability
@@ -19,6 +19,7 @@ This repository will house my practice projects, notes, and assignments as I dev
 
 My Projects Coming soon! I'll add my projects here as I build them. 
 
-### Contact - Email: gn.chukwudi@gmail.com - GitHub: github.com/pokuwaaglory
+### Contact - Email: 
+gn.chukwudi@gmail.com - GitHub: github.com/pokuwaaglory
 
 Stay tuned as I update this space 
