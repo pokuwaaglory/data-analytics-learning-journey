@@ -8,7 +8,7 @@ Using **SQL**, I cleaned the raw dataset and engineered custom risk tiers. Then,
 ---
 
 ## The Dashboard Look & Feel
-![Dashboard Executive View](dashboard screenshot.png)
+![Dashboard Executive View]([dashboard screenshot.png](https://github.com/pokuwaaglory/data-analytics-learning-journey/blob/main/Student_Performance_Project/dashboard%20screenshot.png))
 *An interactive snapshot of the completed executive monitoring matrix.*
 
 ---
