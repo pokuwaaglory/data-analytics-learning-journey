@@ -8,7 +8,7 @@ Using **SQL**, I cleaned the raw dataset and engineered custom risk tiers. Then,
 ---
 
 ## The Dashboard Look & Feel
-![Dashboard Executive View](dashboard_screenshot.png)
+![Dashboard Executive View](dashboard screenshot.png)
 *An interactive snapshot of the completed executive monitoring matrix.*
 
 ---
